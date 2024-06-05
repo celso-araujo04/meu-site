@@ -1,0 +1,22 @@
+.HomeCenter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: #D9D9D9;
+}
+
+.LeftSize {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    color: #4881D8;
+    gap: 15vh;
+}
+
+img.rightImage {
+    width: 25%;
+    height: auto;
+}

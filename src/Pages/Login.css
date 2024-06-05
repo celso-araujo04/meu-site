@@ -1,0 +1,27 @@
+.LoginAll{
+    background-color: #3AAAFE;
+}
+
+.conteudoLogin {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+}
+
+img.leftVetor {
+    width: 80%;
+    height: auto;
+    padding-left: 1rem;
+    margin-top: 8rem;
+}
+
+
+.backArrow {
+    font-size: 3rem;
+    cursor: pointer;
+    margin-left: 5rem;
+    padding-top: 2rem;
+}
